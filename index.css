@@ -12,8 +12,8 @@ body {
 }
 
 .container {
-    max-width: 400px;
-    margin: auto;
+    max-width: 500px;
+    margin: 50px auto;
     background: teal;
     border: 4px solid white;
     border-radius: 20px;
@@ -31,7 +31,6 @@ h2 {
 }
 
 button {
-    border: none;
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
